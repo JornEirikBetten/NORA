@@ -1,0 +1,11 @@
+cuda-python
+jax 
+flax 
+dm-haiku
+optax 
+distrax
+numpy 
+pandas 
+matplotlib 
+torch 
+torchvision
